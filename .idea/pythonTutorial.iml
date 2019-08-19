@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
+<<<<<<< HEAD
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 2.7" jdkType="Python SDK" />
+=======
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Project/AutoAddTag" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+>>>>>>> 4beef02ac654f0afd63f361a3973474d39b8ff0a
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
