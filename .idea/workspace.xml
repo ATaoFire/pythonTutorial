@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db287d1e-238e-41bc-b31e-b784997804df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Project/Mapping/mapping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/zhangtao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-exported-files.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonTutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonTutorial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/AutoAddTag/ou.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project/AutoAddTag/ou.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/AutoAddTag/test_in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/AutoAddTag/test_in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Mapping/mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Mapping/mapping.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +32,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project/Mapping/mapping.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -65,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="1890" />
@@ -88,6 +82,12 @@
               <item name="pythonTutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonTutorial" type="462c0819:PsiDirectoryNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Mapping" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,23 +155,23 @@
       <option name="presentableId" value="Default" />
       <updated>1566198960140</updated>
       <workItem from="1566198961503" duration="1013000" />
-      <workItem from="1566200999482" duration="2080000" />
+      <workItem from="1566200999482" duration="2699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3093000" />
+    <option name="totallyTimeSpent" value="3712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25383994" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25383994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.26998225" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.26998225" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -212,7 +212,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/Mapping/mapping.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
